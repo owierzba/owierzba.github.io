@@ -1,4 +1,9 @@
-p {
-        text-align: center;
+body {
+    background-color:rgb(14, 216, 216);
+    font-style: sans-serif;
+}
+
+      .move {
+        margin-left: auto;
+        margin-right: auto;
       }
-   

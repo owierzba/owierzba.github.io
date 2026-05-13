@@ -1,9 +1,6 @@
 body {
-    background-color:orangered;
+    background-color:darkgreen;
 }
-h1 {
-        text-align: center;
-      }
-      p {
+h1, p, h2 {
         text-align: center;
       }
